@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: vgnr
+Version: 0.1.0
+Summary: viginar encryption encoding and decoding
+Home-page: https://papermerge.com/
+Author: Eugen Ciur
+Author-email: eugen@papermerge.com
+License: Apache 2.0 License
+Description: ##VIGINAR AKA VGNR
+        
+        ##DESCRIPTION
+        
+        
+        ##INSTALLATION
+        pip3 install vgnr
+        OR
+        pip3 install -e .
+        ##USAGE
+        
+        ##UNINSTALATION
+        
+        
+        pip3 uninstall vgnr
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown

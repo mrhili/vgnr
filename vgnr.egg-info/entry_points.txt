@@ -1,0 +1,3 @@
+[console_scripts]
+vgnr = vgnr.__main__:main
+

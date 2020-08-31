@@ -1,0 +1,16 @@
+LICENSE
+MANIFEST.in
+README.md
+install.sh
+uninstall.sh
+setup.cfg
+setup.py
+vgnr/__init__.py
+vgnr/__main__.py
+vgnr/classmodule.py
+vgnr/funcmodule.py
+vgnr.egg-info/PKG-INFO
+vgnr.egg-info/SOURCES.txt
+vgnr.egg-info/dependency_links.txt
+vgnr.egg-info/entry_points.txt
+vgnr.egg-info/top_level.txt
